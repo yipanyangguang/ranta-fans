@@ -1,0 +1,17 @@
+{
+  "name": "ranta-fans",
+  "version": "0.0.3",
+  "description": "仅sp-tee-biz仓库在git commit时使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "小店海报"
+  ],
+  "author": "yipanyangguang@youzan.com",
+  "license": "ISC",
+  "bin": {
+    "ranta-fans": "/cli.js"
+  }
+}
