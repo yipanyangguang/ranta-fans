@@ -1,6 +1,6 @@
 {
   "name": "ranta-fans",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "仅sp-tee-biz仓库在git commit时使用",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "yipanyangguang@youzan.com",
   "license": "ISC",
   "bin": {
-    "ranta-fans": "/cli.js"
+    "ranta-fans": "/index.js"
   }
 }

@@ -125,3 +125,9 @@ function getScenesAndExtensionName(word) {
 }
 
 module.exports = out;
+
+/**
+ * 此文件仅针对小店海报的目录结构进行判断，
+ * 所以extension之间的关系都是通过写死在代码中的
+ * 后期需要优化，自动捕捉extension之间的关系
+ */
