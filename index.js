@@ -8,9 +8,9 @@ const generateCommit = require("./src/generateCommit");
  */
 const args = process.argv.slice(2);
 
-// 直接输入ranta-fans
+// 直接输入rch
 if (args.length === 0) {
-  console.log(`输入 ranta-fans --help 查看帮助`);
+  console.log(`输入 rch --help 查看帮助`);
   return;
 }
 

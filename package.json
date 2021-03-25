@@ -1,6 +1,6 @@
 {
-  "name": "ranta-fans",
-  "version": "0.0.6",
+  "name": "ranta-commit-helper",
+  "version": "0.0.7",
   "description": "仅sp-tee-biz仓库在git commit时使用",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "zhangwenxiang@youzan.com",
   "license": "ISC",
   "bin": {
-    "ranta-fans": "/index.js"
+    "rch": "/index.js"
   }
 }

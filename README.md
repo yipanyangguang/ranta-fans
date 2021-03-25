@@ -3,16 +3,16 @@
 
 # 命令
 查看版本
-ranta-fans --version
+rch --version
 
 查看帮助
-ranta-fans --help
+rch --help
 
 查看当前是否是小店海报子仓库
-ranta-fans --env
+rch --env
 
 自动生成对应的commit信息，且提交commit
-ranta-fans -m "本次修改的内容"
+rch -m "本次修改的内容"
 
 # 注意
 因为是基于路径判断的，可以支持新增extension，但是extension得按照之前的规范来命名，后续会改成扫描文件的形式来判断extension
@@ -24,5 +24,5 @@ git commit -m "修改内容"
 ```
 替换为
 ```bash
-ranta-fans -m "修改内容"
+rch -m "修改内容"
 ```

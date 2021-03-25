@@ -1,5 +1,5 @@
 module.exports = `
-ranta-fans: sp-tee-biz commit助手
+rch: sp-tee-biz commit助手
 
 --help: 查看帮助
 --version: 查看版本
