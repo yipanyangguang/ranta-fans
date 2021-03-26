@@ -1,5 +1,5 @@
 {
-  "name": "ranta-commit-helper",
+  "name": "@youzan/ranta-commit-helper",
   "version": "0.0.7",
   "description": "仅sp-tee-biz仓库在git commit时使用",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "小店海报"
   ],
-  "author": "zhangwenxiang@youzan.com",
+  "author": "zhangwenxiang",
   "license": "ISC",
   "bin": {
     "rch": "/index.js"
